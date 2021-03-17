@@ -1,0 +1,8 @@
+{
+    "name": "quangnt/tintuc",
+    "require": {
+        "twbs/bootstrap": "^4.6",
+        "components/jquery": "^3.5",
+        "alexandermatveev/popper-bundle": "^1.0"
+    }
+}
